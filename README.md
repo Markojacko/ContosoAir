@@ -1,4 +1,4 @@
-![Build Status](https://dev.azure.com/Markojacko7676/ContosoAir/_apis/build/status/MarkoJ7676.ContosoAir?branchName=master)(https://dev.azure.com/Markojacko7676/ContosoAir/_build/latest?definitionId=5&branchName=master)
+[![Build Status](https://dev.azure.com/Markojacko7676/ContosoAir/_apis/build/status/MarkoJ7676.ContosoAir?branchName=master)](https://dev.azure.com/Markojacko7676/ContosoAir/_build/latest?definitionId=5&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 # TEst
 # Microsoft.Github CI Demo
